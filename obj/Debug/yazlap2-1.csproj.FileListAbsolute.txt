@@ -1,0 +1,11 @@
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\bin\Debug\yazlap2-1.exe.config
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\bin\Debug\yazlap2-1.exe
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\bin\Debug\yazlap2-1.pdb
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2-1.csprojAssemblyReference.cache
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2_1.PuzzleForm.resources
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2_1.Form2.resources
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2_1.Properties.Resources.resources
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2-1.csproj.GenerateResource.cache
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2-1.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2-1.exe
+C:\Users\NECOO\Desktop\puzzle\yazlap2-1\yazlap2-1\obj\Debug\yazlap2-1.pdb

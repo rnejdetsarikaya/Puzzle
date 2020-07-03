@@ -1,0 +1,5 @@
+deniz:100
+nejdet:96
+deniz:100
+nejdet:96
+ali:88
